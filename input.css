@@ -1,0 +1,17 @@
+@tailwind base;
+/* has all base styling of html base class has heading main significane of base class */
+@tailwind components;
+/*  */
+@tailwind utilities;
+
+/* @layer base {
+  a {
+    @apply text-green-500 underline;
+  }
+}
+
+@layer components {
+  .menu-btn {
+    @apply text-white bg-indigo-500 p-3;
+  }
+} */
